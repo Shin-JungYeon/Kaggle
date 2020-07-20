@@ -1,3 +1,5 @@
+# 데이터 전처리
+
 import pandas as pd
 
 train = pd.read_csv(r'C:\Users\ssjy1\kaggle\titanic\train.csv')
